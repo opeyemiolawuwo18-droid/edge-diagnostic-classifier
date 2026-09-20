@@ -1,0 +1,18 @@
+# Datasets
+*.zip
+cell_images/
+data/
+
+# Model artifacts
+*.pt
+*.pth
+*.onnx
+temp_model.pt
+
+# Colab / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
